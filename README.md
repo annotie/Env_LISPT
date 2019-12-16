@@ -1,5 +1,4 @@
-# Env_LISPT
-Adding an environmental dimension to LMPs
+# Env_LISPT / Adding an environmental dimension to LMPs
 
 During a technical workshop in December 2018, the “better incorporation of environmental impacts/consequences in the livestock sector development” was identified as a priority for future development of the LISPT toolbox. Recommendations of the workshop were to start off by developing a stand-alone environmental module that uses data from LSIPT to calculate GHG emissions and water use from livestock. Later activities would include the incorporation of a feed basket and development of scorecards to highlight the trade-offs that exist amongst different interventions.  This page presents all progress towards that objective.
 
