@@ -1,6 +1,6 @@
-# Env_LISPT / Adding an environmental dimension to LMPs
+# Env_LSIPT / Adding an environmental dimension to LMPs
 
-During a technical workshop in December 2018, the “better incorporation of environmental impacts/consequences in the livestock sector development” was identified as a priority for future development of the LISPT toolbox. Recommendations of the workshop were to start off by developing a stand-alone environmental module that uses data from LSIPT to calculate GHG emissions and water use from livestock. Later activities would include the incorporation of a feed basket and development of scorecards to highlight the trade-offs that exist amongst different interventions.  This page presents all progress towards that objective.
+During a technical workshop in December 2018, the “better incorporation of environmental impacts/consequences in the livestock sector development” was identified as a priority for future development of the LSIPT toolbox. Recommendations of the workshop were to start off by developing a stand-alone environmental module that uses data from LSIPT to calculate GHG emissions and water use from livestock. Later activities would include the incorporation of a feed basket and development of scorecards to highlight the trade-offs that exist amongst different interventions.  This page presents all progress towards that objective.
 
 The proposed steps for calculating tier 1 and tier 2 GHG emissions and associated land requirements for feed production are as follows: 
 1.	Calculate Tier 1 GHG emissions for BAU as well as SCEN (based on animal numbers from the LMP - BAU and “with intervention”)
